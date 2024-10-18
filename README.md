@@ -2,7 +2,7 @@
 
 Objective: performance analysis of Amazon products based on ratings, rating count, and brand.
 
-Data Source: Data was gathered using API integration from Amazon and cleaned/preprocessed in Jupyter.
+Data Source: Data was gathered using API integration from Kaggle and cleaned/preprocessed in Jupyter.
 
 Data Overview:
 1.	Number of products: 1465
